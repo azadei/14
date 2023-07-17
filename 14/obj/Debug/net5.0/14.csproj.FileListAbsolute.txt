@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\14.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\14.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\14.AssemblyInfo.cs
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\14.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HOME30\14\14\bin\Debug\net5.0\14.exe
+C:\Users\user\Desktop\HOME30\14\14\bin\Debug\net5.0\14.deps.json
+C:\Users\user\Desktop\HOME30\14\14\bin\Debug\net5.0\14.runtimeconfig.json
+C:\Users\user\Desktop\HOME30\14\14\bin\Debug\net5.0\14.runtimeconfig.dev.json
+C:\Users\user\Desktop\HOME30\14\14\bin\Debug\net5.0\14.dll
+C:\Users\user\Desktop\HOME30\14\14\bin\Debug\net5.0\14.pdb
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\14.dll
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\refint\14.dll
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\14.pdb
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\14.genruntimeconfig.cache
+C:\Users\user\Desktop\HOME30\14\14\obj\Debug\net5.0\ref\14.dll
